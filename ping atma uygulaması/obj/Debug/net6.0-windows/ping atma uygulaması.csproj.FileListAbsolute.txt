@@ -1,0 +1,17 @@
+C:\Users\Tusmer08\Desktop\yazilim\c# form\2.gün\ping atma uygulaması\ping atma uygulaması\bin\Debug\net6.0-windows\ping atma uygulaması.exe
+C:\Users\Tusmer08\Desktop\yazilim\c# form\2.gün\ping atma uygulaması\ping atma uygulaması\bin\Debug\net6.0-windows\ping atma uygulaması.deps.json
+C:\Users\Tusmer08\Desktop\yazilim\c# form\2.gün\ping atma uygulaması\ping atma uygulaması\bin\Debug\net6.0-windows\ping atma uygulaması.runtimeconfig.json
+C:\Users\Tusmer08\Desktop\yazilim\c# form\2.gün\ping atma uygulaması\ping atma uygulaması\bin\Debug\net6.0-windows\ping atma uygulaması.dll
+C:\Users\Tusmer08\Desktop\yazilim\c# form\2.gün\ping atma uygulaması\ping atma uygulaması\bin\Debug\net6.0-windows\ping atma uygulaması.pdb
+C:\Users\Tusmer08\Desktop\yazilim\c# form\2.gün\ping atma uygulaması\ping atma uygulaması\obj\Debug\net6.0-windows\ping atma uygulaması.csproj.AssemblyReference.cache
+C:\Users\Tusmer08\Desktop\yazilim\c# form\2.gün\ping atma uygulaması\ping atma uygulaması\obj\Debug\net6.0-windows\ping_atma_uygulaması.Form1.resources
+C:\Users\Tusmer08\Desktop\yazilim\c# form\2.gün\ping atma uygulaması\ping atma uygulaması\obj\Debug\net6.0-windows\ping atma uygulaması.csproj.GenerateResource.cache
+C:\Users\Tusmer08\Desktop\yazilim\c# form\2.gün\ping atma uygulaması\ping atma uygulaması\obj\Debug\net6.0-windows\ping atma uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tusmer08\Desktop\yazilim\c# form\2.gün\ping atma uygulaması\ping atma uygulaması\obj\Debug\net6.0-windows\ping atma uygulaması.AssemblyInfoInputs.cache
+C:\Users\Tusmer08\Desktop\yazilim\c# form\2.gün\ping atma uygulaması\ping atma uygulaması\obj\Debug\net6.0-windows\ping atma uygulaması.AssemblyInfo.cs
+C:\Users\Tusmer08\Desktop\yazilim\c# form\2.gün\ping atma uygulaması\ping atma uygulaması\obj\Debug\net6.0-windows\ping atma uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Tusmer08\Desktop\yazilim\c# form\2.gün\ping atma uygulaması\ping atma uygulaması\obj\Debug\net6.0-windows\ping atma uygulaması.dll
+C:\Users\Tusmer08\Desktop\yazilim\c# form\2.gün\ping atma uygulaması\ping atma uygulaması\obj\Debug\net6.0-windows\refint\ping atma uygulaması.dll
+C:\Users\Tusmer08\Desktop\yazilim\c# form\2.gün\ping atma uygulaması\ping atma uygulaması\obj\Debug\net6.0-windows\ping atma uygulaması.pdb
+C:\Users\Tusmer08\Desktop\yazilim\c# form\2.gün\ping atma uygulaması\ping atma uygulaması\obj\Debug\net6.0-windows\ping atma uygulaması.genruntimeconfig.cache
+C:\Users\Tusmer08\Desktop\yazilim\c# form\2.gün\ping atma uygulaması\ping atma uygulaması\obj\Debug\net6.0-windows\ref\ping atma uygulaması.dll
